@@ -1,8 +1,8 @@
 import flask
-DB_HOST = "ec2-184-73-198-174.compute-1.amazonaws.com"
-DB_NAME = "d778unuru7gl7t"
-DB_USER = "zkuqfpwfurgbxe"
-DB_PASS = "dc2b34408de61a5baab4805577fcff6b49301b27d376887f10bc4ca643e4e669"
+DB_HOST = "ec2-54-87-112-29.compute-1.amazonaws.com"
+DB_NAME = "dauij727vlojup"
+DB_USER = "guehrjpjvvnttv"
+DB_PASS = "b430fbf2ebeacfe389212d022fd9e21fc9de5311d88839f2697781ceb216f8b9"
 from werkzeug.utils import secure_filename
 from werkzeug.datastructures import  FileStorage
 import psycopg2
